@@ -11,5 +11,6 @@ Tiny Tk/ttkthemes helper that writes `autorun.inf` to a USB drive, lets you pick
 - Windows: `pip install -r requirements.txt`, then use **Batch to EXE** (PyInstaller).
 - Linux: install MinGW-w64 (e.g., `sudo apt-get install mingw-w64`). The app will prompt to install it if missing, then builds a Windows EXE via the cross-compiler.
 
-<img width="548" height="406" alt="image" src="https://github.com/user-attachments/assets/2e31730c-5285-4540-bd8c-24851b7f419c" />
+<img width="548" height="406" alt="image" src="https://github.com/user-attachments/assets/2e31730c-5285-4540-bd8c-24851b7f419c" /> <img width="588" height="486" alt="image" src="https://github.com/user-attachments/assets/613c51b4-359b-4357-83b6-ae9990c10876" />
+
 
