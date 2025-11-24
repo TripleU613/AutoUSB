@@ -1,0 +1,4 @@
+ttkthemes>=3.2.4
+# Required for building executables from scripts
+pyinstaller>=6.6.0
+# System (Linux): mingw-w64 for cross-compiling to Windows (install via package manager)
